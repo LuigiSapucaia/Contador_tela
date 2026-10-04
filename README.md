@@ -22,4 +22,12 @@ Abra a pasta do projeto no Android Studio, aguarde o *Gradle Sync* e execute o m
 
 ## Captura de tela
 
-_(adicione aqui a captura do app rodando)_
+App rodando no emulador do Android Studio:
+
+| Valor inicial (0) | Após somar (3) | Após subtrair (-2) |
+|---|---|---|
+| ![Contador em 0](screenshots/contador_0.png) | ![Contador em 3](screenshots/contador_3.png) | ![Contador em -2](screenshots/contador_negativo.png) |
+
+## Diário de IA
+
+O diário de uso de IA desta entrega está em [`Diario_de_IA.docx`](Diario_de_IA.docx).
